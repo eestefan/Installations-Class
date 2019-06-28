@@ -16,7 +16,7 @@ PAMM describes Martinat’s work as “an installation that responds to the ampl
 
 ![](https://github.com/eestefan/Reflection-PAMM/PAMM_Jose-Carlos-Martinat_American-Echo-Chamger-2_72dpi.jpg)
 
-Reflection-PAMM/PAMM_Jose-Carlos-Martinat_American-Echo-Chamger-2_72dpi.jpg
+https://github.com/eestefan/Reflection-PAMM/PAMM_Jose-Carlos-Martinat_American-Echo-Chamger-2_72dpi.jpg
 
 
 https://github.com/eestefan/Installations-Class.git
