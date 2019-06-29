@@ -7,7 +7,7 @@ Concept Introduction: What is Social Justice?
 “Institutions in society should allow equal opportunities to all people without engaging in discrimination. Social Injustices occur when a person, people or groups of people are treated unfairly based upon a certain characteristic of that person or group of people such as race (racism), age (ageism), gender (sexism), religion and sexuality (heterosexism). 
 ~Social Justice Lesson for Kids: Definition, Issues & Examples, Chapter 17, Lesson 6. (https://study.com/academy/lesson/social-justice-lesson-for-kids-definition-issues-examples.html )
 
-The installation is inspired by the social justice boardgames in the Kislak Center at the University of Miami’s Special Collections. ![https://www.library.miami.edu/kislak-center/about.html](https://www.library.miami.edu/kislak-center/about.html) And is to be presented in collaboration with the Kislak Center, School of Comm Interactive Media Program and the Miami Law. 
+The installation is inspired by the social justice boardgames in the Kislak Center at the University of Miami’s Special Collections. https://www.library.miami.edu/kislak-center/about.html And is to be presented in collaboration with the Kislak Center, School of Comm Interactive Media Program and the Miami Law. 
 
 Games in the Kislak Center collection include: 
 
