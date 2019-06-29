@@ -2,7 +2,9 @@
 
 Prototype, Play with Me and We: Reflection Wall
 
-With many thanks to Prof. Zeven Rodriguez! 
+With much thanks to Prof. Zeven Rodriguez! 
+
+![](https://github.com/eestefan/Installations-Class/blob/master/Prototype/image1.png)
 
 The concept started with the idea of playing with one’s shadow—creating a shadow wall of sorts. I even heard a theme song in my head “Dancing with Myself” by Billy Idol. [ https://www.youtube.com/watch?v=FG1NrQYXjLU](https://www.youtube.com/watch?v=FG1NrQYXjLU)
 
