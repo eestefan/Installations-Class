@@ -12,6 +12,8 @@ I initially thought about adding the notes to the exterior of the garment, as a 
 
 I instead decided to add the notes to the interior of the garment, a way to protect what others do not easily see or know about me. These are notes I hold on to more tightly, who I am, who I aspire to be and how to be in the moment.
 
+![](https://github.com/eestefan/Installations-Class/blob/master/images/Cabinet-of-Curiosity/within-sketch.jpg) ![](https://github.com/eestefan/Installations-Class/blob/master/images/Cabinet-of-Curiosity/within-sketch2.jpg)
+
 ![](https://github.com/eestefan/Installations-Class/blob/master/images/Cabinet-of-Curiosity/within-1.jpg) ![](https://github.com/eestefan/Installations-Class/blob/master/images/Cabinet-of-Curiosity/within-2.jpg) ![](https://github.com/eestefan/Installations-Class/blob/master/images/Cabinet-of-Curiosity/within-3.jpg)
 
 
