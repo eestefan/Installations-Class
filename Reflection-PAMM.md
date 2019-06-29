@@ -16,4 +16,4 @@ PAMM describes Martinat’s work as “an installation that responds to the ampl
 
 
 
-![](https://github.com/eestefan/Installations-Class.git)
+![https://github.com/eestefan/Installations-Class.git](https://github.com/eestefan/Installations-Class.git)
