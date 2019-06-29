@@ -1,6 +1,6 @@
 # Cabinet of Curiosity, *Within* by Elizabeth Estefan
 
-My cabinet started with the idea that I surround myself with all sorts of notes, lists and reminders in notebooks, on little pieces of scrap paper, sticky notes, and in my phone with alarms. I even buy magnets with quotes. Some notes are short lived while others stick around for years. These notes can include mundane daily errands, a PMS color for collateral I maybe creating, or a mantra or quote to help remind me of who I am, who I aspire to be or how to live in the moment.
+My cabinet started with the idea that I surround myself with all sorts of notes, lists and reminders in notebooks, on little pieces of scrap paper, sticky notes, and in my phone with alarms. I even buy magnets with quotes. Some notes are short lived while others stick around for years. These notes can include mundane daily errands, a PMS color for collateral I may be creating, or a mantra or quote to help remind me of who I am, who I aspire to be or how to live in the moment.
 
 So how would I display this collection. I thought of collecting notes on a board, but it started to transform. Maybe it would be a life size head shape with the notes all around it or maybe inside in a clutter.
 
