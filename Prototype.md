@@ -4,7 +4,7 @@ Prototype, Play with Me and We: Reflection Wall
 
 With many thanks to Prof. Zeven Rodriguez! 
 
-The concept started with the idea of playing with one’s shadow—creating a shadow wall of sorts. I even heard a theme song in my head “Dancing with Myself” by Billy Idol. ![ https://www.youtube.com/watch?v=FG1NrQYXjLU](https://www.youtube.com/watch?v=FG1NrQYXjLU)
+The concept started with the idea of playing with one’s shadow—creating a shadow wall of sorts. I even heard a theme song in my head “Dancing with Myself” by Billy Idol. [ https://www.youtube.com/watch?v=FG1NrQYXjLU](https://www.youtube.com/watch?v=FG1NrQYXjLU)
 
 The idea was to be able to see a projection of one’s own shadow on a large wall. As you move around your shadow follows you, but sometimes it might run away from you—so go chase it. It is meant to be playful and enjoyable for all ages. 
 
@@ -30,4 +30,4 @@ This continues to be a work in progress, The visuals need to be refined and made
 
 To be continued…
 
-![https://github.com/eestefan/Installations-Class.git](https://github.com/eestefan/Installations-Class.git)
+https://github.com/eestefan/Installations-Class.git
