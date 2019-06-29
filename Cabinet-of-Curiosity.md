@@ -14,4 +14,4 @@ I instead decided to add the notes to the interior of the garment, a way to prot
 
 
 
-![https://github.com/eestefan/Installations-Class.git](https://github.com/eestefan/Installations-Class.git)
+[https://github.com/eestefan/Installations-Class.git](https://github.com/eestefan/Installations-Class.git)
