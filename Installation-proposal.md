@@ -59,6 +59,7 @@ Possible focus group members and consultants at UM:
 -College of Arts and Sciences, Theatre Arts Students
 
 ![](https://github.com/eestefan/Installations-Class/blob/master/images/Installation/SJ-game-bricks.jpg)
+![](https://github.com/eestefan/Installations-Class/blob/master/images/Installation/Map-72dpi.jpg)
 
 
 [https://github.com/eestefan/Installations-Class.git](https://github.com/eestefan/Installations-Class.git)
