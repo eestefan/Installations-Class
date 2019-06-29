@@ -22,6 +22,7 @@ Additionally, offering interactive experiences is becoming more desirable and on
 
 Overall, the success of an installation is a combination of not only the artwork, but also the physical space and what it offers the audience.
 
-![](https://github.com/eestefan/Installations-Class/blob/master/images/Reflection-Kislak/Kislak-6.jpg) ![](https://github.com/eestefan/Installations-Class/blob/master/images/Reflection-Kislak/Kislak-9.jpg) ![](https://github.com/eestefan/Installations-Class/blob/master/images/Reflection-Kislak/Kislak-7.jpg) ![](https://github.com/eestefan/Installations-Class/blob/master/images/Reflection-Kislak/Kislak-5.jpg)
+![](https://github.com/eestefan/Installations-Class/blob/master/images/Reflection-Kislak/Kislak-6.jpg)  ![](https://github.com/eestefan/Installations-Class/blob/master/images/Reflection-Kislak/Kislak-7.jpg) 
+![](https://github.com/eestefan/Installations-Class/blob/master/images/Reflection-Kislak/Kislak-9.jpg) ![](https://github.com/eestefan/Installations-Class/blob/master/images/Reflection-Kislak/Kislak-5.jpg)
 
 https://github.com/eestefan/Installations-Class.git
