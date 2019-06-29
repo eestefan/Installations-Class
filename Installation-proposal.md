@@ -7,23 +7,23 @@ Concept Introduction: What is Social Justice?
 “Institutions in society should allow equal opportunities to all people without engaging in discrimination. Social Injustices occur when a person, people or groups of people are treated unfairly based upon a certain characteristic of that person or group of people such as race (racism), age (ageism), gender (sexism), religion and sexuality (heterosexism). 
 ~Social Justice Lesson for Kids: Definition, Issues & Examples, Chapter 17, Lesson 6. (https://study.com/academy/lesson/social-justice-lesson-for-kids-definition-issues-examples.html )
 
-The installation is inspired by the social justice boardgames in the Kislak Center at the University of Miami’s Special Collections. And is to be presented in collaboration with the Kislak Center, School of Comm Interactive Media Program and the Miami Law. 
+The installation is inspired by the social justice boardgames in the Kislak Center at the University of Miami’s Special Collections. ![https://www.library.miami.edu/kislak-center/about.html](https://www.library.miami.edu/kislak-center/about.html) And is to be presented in collaboration with the Kislak Center, School of Comm Interactive Media Program and the Miami Law. 
+
 Games in the Kislak Center collection include: 
 
 What shall I be? the exciting game of career girls. 1966 (Career opportunities for the modern woman.)
-![https://miami-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UOML_ALMA21286182160002976&context=L&vid=uml_new&lang=en_US&search_scope=SC&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,games&facet=library,include,SC&offset=0](https://miami-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UOML_ALMA21286182160002976&context=L&vid=uml_new&lang=en_US&search_scope=SC&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,games&facet=library,include,SC&offset=0)
+Selchow & Righter Company; The Bookshop LLC, bookseller;
+Bay Shore, N.Y. : Selchow & Righter, c1966
+Description: “Game which introduces girls 8-13 to the careers of teacher, ballerina, nurse, model, actress, and airline stewardess.”
 
 Woman & man the classic confrontation. 1971 
-!{https://miami-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UOML_ALMA21286182190002976&context=L&vid=uml_new&lang=en_US&search_scope=SC&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,games&facet=library,include,SC&offset=0](https://miami-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UOML_ALMA21286182190002976&context=L&vid=uml_new&lang=en_US&search_scope=SC&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,games&facet=library,include,SC&offset=0)
 "Developed by Psychology Today to draw attention to "the way one sex has managed to squelch the other," the game aims to correct this blind spot. Men are encouraged to play the game as a woman and "feel what it's like to be a mere female to compete in a frustrating world that caters to men." But women are also encouraged to change roles and "get a taste of male supremacy, and compete with the sweet certainty that the world is made in a male image." --description from The Book Shop LLC
 
 The rainbow gayme. 1992
-![https://miami-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UOML_ALMA21296431720002976&context=L&vid=uml_new&lang=en_US&search_scope=SC&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,games&facet=library,include,SC&offset=0](https://miami-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UOML_ALMA21296431720002976&context=L&vid=uml_new&lang=en_US&search_scope=SC&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,games&facet=library,include,SC&offset=0)
 
 Gayopoly 1981
-![https://miami-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UOML_ALMA21296431640002976&context=L&vid=uml_new&lang=en_US&search_scope=SC&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,gayopoly&offset=0](https://miami-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UOML_ALMA21296431640002976&context=L&vid=uml_new&lang=en_US&search_scope=SC&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,gayopoly&offset=0)
 
-Location for Installation
+Location for Installation:
 Miami Law The Hilarie Bass Bricks: Live game
 Alma Jennings Foundation Student Lounge: Signage, game tables, 2D videos
 
