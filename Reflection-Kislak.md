@@ -18,11 +18,8 @@ Glass cases protect the art which is arranged at different levels for visual int
 
 Generally, installations can be arranged chronologically or thematically. Either way, there should be an overall unifying theme. It is about storytelling and creating a conversation between the viewer and artwork. And rather than giving a point of view, allow the audience to make their own conclusion. 
 
+Additionally, offering interactive experiences is becoming more desirable and on the rise. The Kislak has digital touch screens offering different educational experiences. One is a multilingual audio flipbook, and another is a table with maps and descriptions though technically a little buggy. 
 
-
-
-
-
-
+Overall, the success of an installation is a combination of not only the artwork, but also the physical space and what it offers the audience.
 
 ![https://github.com/eestefan/Installations-Class.git](https://github.com/eestefan/Installations-Class.git)
