@@ -4,7 +4,7 @@ Visited May 30, 2019.
 
 This visit was focused on what it takes to put together an installation and key tactics for success. Many thanks to Cristina and Arthur for the tour and sharing their expertise with us.
 
-This Kislak Center is the home of the special collections at the University of Miami. ![https://www.library.miami.edu/kislak-center/about.html](https://www.library.miami.edu/kislak-center/about.html)
+This Kislak Center is the home of the special collections at the University of Miami. https://www.library.miami.edu/kislak-center/about.html
 
 Upon entering the beautiful contemporary space on the second floor of the Kislak, it is clear much time and care was taken in the curation. Much effort, planning and cost goes into the curation, thus the exhibition will remain on view for some time.
 
@@ -22,4 +22,4 @@ Additionally, offering interactive experiences is becoming more desirable and on
 
 Overall, the success of an installation is a combination of not only the artwork, but also the physical space and what it offers the audience.
 
-![https://github.com/eestefan/Installations-Class.git](https://github.com/eestefan/Installations-Class.git)
+https://github.com/eestefan/Installations-Class.git
