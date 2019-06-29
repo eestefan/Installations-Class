@@ -8,9 +8,9 @@ Then thinking back to some of my older works, I played a lot with the concept of
 
 Further former works included garments for these “dolls” I was creating. It seemed appropriate to share my notes, my reminders with a new garment.
 
-I initially thought about adding the notes to the exterior of the garment, as a representation of the things people plainly see or think they see and know about others the meet in passing or superficially acquainted. Then in reading some of notes, including mantras and quotes I have around me at work and home, it turned into something more intimate.
+I initially thought about adding the notes to the exterior of the garment, as a representation of the things people plainly see or think they see and know about others they meet in passing or superficially acquainted. Then in reading some of notes, including mantras and quotes I have around me at work and home, it turned into something more intimate.
 
-I instead decided to add the notes to the interior of the garment, a way to protect what others do not easily see or know about me. These are notes I hold on to more tightly, who I am, who I aspire to be and how to be in the moment.
+I instead decided to add the notes to the interior of the garment, a way to protect what others do not easily see or know about me. These are notes I hold on to more dearly, who I am, who I aspire to be and how to be in the moment.
 
 ![](https://github.com/eestefan/Installations-Class/blob/master/images/Cabinet-of-Curiosity/within-sketch.jpg) ![](https://github.com/eestefan/Installations-Class/blob/master/images/Cabinet-of-Curiosity/within-sketch2.jpg)
 
