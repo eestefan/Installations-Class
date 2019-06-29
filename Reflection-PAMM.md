@@ -14,6 +14,7 @@ The vibrantly glowing sculptures distracted me from seeing what was in front of 
 
 PAMM describes Martinat’s work as “an installation that responds to the amplification and reinforcement of ideas in the current social and political landscape.” I appreciate Martinat juxtaposition of playful elements with dark subject matter. I feel the playfulness of the art is a clever way to lure in then confront the audience with current realities. This installation feels relevant today with fake news and the appalling what seems approval of racism, social and environmental injustice by some top governmental officials.
 
+![](https://github.com/eestefan/Installations-Class/blob/master/images/Reflection-PAMM/PAMM_Jose-Carlos-Martinat_American-Echo-Chamger-2_72dpi.jpg) ![](https://github.com/eestefan/Installations-Class/blob/master/images/Reflection-PAMM/PAMM_Jose-Carlos-Martinat_American-Echo-Chamger_72dpi.jpg)
 
 
 https://github.com/eestefan/Installations-Class.git
