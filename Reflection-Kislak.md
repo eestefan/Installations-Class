@@ -6,6 +6,9 @@ This reflection is focused on what I learned about putting together an installat
 
 This Kislak Center is the home of the special collections at the Unversity of Miami.
 
+Upon entering the beautiful contemporary space on the second floor of the Kislak, it is clear much time and care was taken in the curation
+
+
 
 
 
