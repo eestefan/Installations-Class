@@ -22,4 +22,4 @@ On the first floor, the darkly lit room was illuminated and filled with life siz
 As a whole, the pieces seemed to have a connection with the natural world, very organic in nature and feel.
 
 
-![https://github.com/eestefan/Installations-Class.git](https://github.com/eestefan/Installations-Class.git)
+https://github.com/eestefan/Installations-Class.git
