@@ -58,5 +58,7 @@ Possible focus group members and consultants at UM:
 -Law School Student Organizations such as but not limited to the Student Bar Association, OUTLaw and Miami Law Women (Equity Playhouse if it becomes active again)
 -College of Arts and Sciences, Theatre Arts Students
 
+![](https://github.com/eestefan/Installations-Class/blob/master/images/Installation/SJ-game-bricks.jpg)
+
 
 [https://github.com/eestefan/Installations-Class.git](https://github.com/eestefan/Installations-Class.git)
