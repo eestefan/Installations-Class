@@ -11,12 +11,17 @@ The installation is inspired by the social justice boardgames in the Kislak Cent
 Games in the Kislak Center collection include: 
 
 What shall I be? the exciting game of career girls. 1966 (Career opportunities for the modern woman.)
+![https://miami-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UOML_ALMA21286182160002976&context=L&vid=uml_new&lang=en_US&search_scope=SC&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,games&facet=library,include,SC&offset=0](https://miami-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UOML_ALMA21286182160002976&context=L&vid=uml_new&lang=en_US&search_scope=SC&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,games&facet=library,include,SC&offset=0)
 
-Woman & man the classic confrontation. 1971 "Developed by Psychology Today to draw attention to "the way one sex has managed to squelch the other," the game aims to correct this blind spot. Men are encouraged to play the game as a woman and "feel what it's like to be a mere female to compete in a frustrating world that caters to men." But women are also encouraged to change roles and "get a taste of male supremacy, and compete with the sweet certainty that the world is made in a male image." --description from The Book Shop LLC
+Woman & man the classic confrontation. 1971 
+!{https://miami-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UOML_ALMA21286182190002976&context=L&vid=uml_new&lang=en_US&search_scope=SC&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,games&facet=library,include,SC&offset=0](https://miami-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UOML_ALMA21286182190002976&context=L&vid=uml_new&lang=en_US&search_scope=SC&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,games&facet=library,include,SC&offset=0)
+"Developed by Psychology Today to draw attention to "the way one sex has managed to squelch the other," the game aims to correct this blind spot. Men are encouraged to play the game as a woman and "feel what it's like to be a mere female to compete in a frustrating world that caters to men." But women are also encouraged to change roles and "get a taste of male supremacy, and compete with the sweet certainty that the world is made in a male image." --description from The Book Shop LLC
 
 The rainbow gayme. 1992
+![https://miami-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UOML_ALMA21296431720002976&context=L&vid=uml_new&lang=en_US&search_scope=SC&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,games&facet=library,include,SC&offset=0](https://miami-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UOML_ALMA21296431720002976&context=L&vid=uml_new&lang=en_US&search_scope=SC&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,games&facet=library,include,SC&offset=0)
 
 Gayopoly 1981
+![https://miami-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UOML_ALMA21296431640002976&context=L&vid=uml_new&lang=en_US&search_scope=SC&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,gayopoly&offset=0](https://miami-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UOML_ALMA21296431640002976&context=L&vid=uml_new&lang=en_US&search_scope=SC&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,gayopoly&offset=0)
 
 Location for Installation
 Miami Law The Hilarie Bass Bricks: Live game
