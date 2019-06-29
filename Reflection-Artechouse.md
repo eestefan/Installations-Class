@@ -13,7 +13,7 @@ XYZT is a progressive and current exhibition featuring several large- and small-
 
 The bio for Adrien M & Claire B and their works found on the Artechouse https://miami.artechouse.com website explains that the artists’ company “creates digital and living art forms, ranging from stage performance to installations…[and] combines the real and virtual world with IT tools…They strive to create living digital art: mobile, handcrafted, short-lived, and responsive.” 
 
-I am not yet well versed in this field of art and all the technologies that are used in this show and works like it. But my experience is something I can surely try to share.
+I am not yet well versed in this field of art and all the technologies that are used in this show and works like it. But my experience is something I can try to share.
 
 I was mesmerized and elated upon entering the museum space. The installation filled the entire museum space on two floors. It was transformed giving the feeling of entering another workd, yet familiar. 
 
