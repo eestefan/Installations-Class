@@ -1,6 +1,6 @@
 # Reflection, Artechouse, Artists Adrien M & Clair B
 
-XYZT: Abstract Landscapes. Adrien M & Claire B, Creation 2011 and 2015.  Digital Interactive Art. On Exhibition at Artechouse. Miami Beach, Florida. 
+*XYZT: Abstract Landscapes.* Adrien M & Claire B, Creation 2011 and 2015.  Digital Interactive Art. On Exhibition at Artechouse. Miami Beach, Florida. 
 
 Visited May 30, 2019.
 
@@ -9,7 +9,7 @@ Artechouse is a new museum dedicated to exhibiting interactive art. The space is
 What is Interactive Art? As described on Wikipedia (https://en.wikipedia.org/wiki/Interactive_art#cite_note-:0-4),
 “Interactive art is a form of art that involves the spectator in a way that allows the art to achieve its purpose. Some interactive art installations achieve this by letting the observer or visitor "walk" in, on, and around them; some others ask the artist or the spectators to become part of the artwork. [Taken from Soler-Adillon, Joan (2015-12-21). "The intangible material of interactive art: agency, behavior and emergence". Artnodes. 0 (16). doi:10.7238/a.v0i16.2744. ISSN 1695-5951.]
  
-XYZT is a progressive and current exhibition featuring several large- and small-scale integrative artworks by the artists Adrien M & Claire B.
+*XYZT* is a progressive and current exhibition featuring several large- and small-scale integrative artworks by the artists Adrien M & Claire B.
 
 The bio for Adrien M & Claire B and their works found on the Artechouse https://miami.artechouse.com website explains that the artists’ company “creates digital and living art forms, ranging from stage performance to installations…[and] combines the real and virtual world with IT tools…They strive to create living digital art: mobile, handcrafted, short-lived, and responsive.” 
 
